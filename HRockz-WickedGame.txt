@@ -3,8 +3,8 @@ H-ROCKZ - WICKED GAME
 
 Music + Text:   HIM, Chris Isaak
 Guitar Tuning:  EADGBE
-Guitar Effect:  P1/3
-Tempo:          120 bpm
+Guitar Effect:  U5-1 (main), U5-2 (solo)
+Tempo:          124 bpm
 
 
 [1x Keys]
