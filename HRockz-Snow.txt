@@ -2,14 +2,14 @@ H-ROCKZ - SNOW
 ==============
 
 Music + Text:   Red Hot Chili Peppers
-
 Guitar Tuning:  EADGBE
 Guitar Effect:  U5/4
+Tempo:          112 bpm
 
 
 [2x Riff]
 
-[2x Riff + bass + drums]
+[2x Riff + bass + keys]
 
 [Riff]
 
@@ -28,7 +28,7 @@ Guitar Effect:  U5/4
 	I got your hey oh
 	Now listen what I say, oh, oh
 
-[Riff + organ 1]
+[Riff + keys]
 
 	When will I know that I really can't go
 	To the well once more – time to decide on
@@ -40,21 +40,19 @@ Guitar Effect:  U5/4
 	When it's killing me, what do I really need?
 	All that I need to look inside
 
-[Riff + organ 2]
-
 	Hey oh
 	Listen what I say, oh
 	Come back and hey oh
 	Look at what I say, oh
 
-[Guitar chords 1 + organ 3  -  Em G#m Em]
+[Simple chords + keys  -  Em G#m Em]
 
 	The more I see, the less I know
 	The more I'd like to let it go
 	Hey oh
 	Who-ho-oh-ho-o
 
-[Powerchords]
+[Powerchords  -  Bm F#m C#m]
 
 	Deep beneath the cover of another perfect wonder
 	Where it's so white as snow
@@ -67,9 +65,9 @@ Guitar Effect:  U5/4
 
 	Ho!
 
-[2x Riff + organ 1]
+[2x Riff + keys]
 
-[Riff + organ]
+[Riff + keys]
 
 	Went to descend to amend for a friend
 	All the channels that have broken down
@@ -85,14 +83,14 @@ Guitar Effect:  U5/4
 	I got your hey oh
 	Listen what I say, oh
 
-[Guitar chords 1  -  Em G#m Em]
+[Simple chords 1  -  Em G#m Em]
 
 	The more I see the less I know
 	The more I'd like to let it go
 	Hey oh
 	Who-ho-oh-ho-o
 
-[Powerchords 1  -  Bm F#m C#m]
+[Powerchords  -  Bm F#m C#m]
 
 	Deep beneath the cover of another perfect wonder
 	Where it's so white as snow
@@ -103,14 +101,10 @@ Guitar Effect:  U5/4
 	Running through the field where all my tracks will be concealed
 	And there's nowhere to go
 
-[Powerchords 2  -  Bm F#m C#m]
-
 	I said hey-hey yeah, oh yeah
 	Tell my love now
 	Hey-hey yeah, oh yeah
 	Tell my love now
-
-[Guitar chords 1]
 
 	Deep beneath the cover of another perfect wonder
 	Where it's so white as snow
@@ -125,7 +119,7 @@ Guitar Effect:  U5/4
 	Tell my love now
 	Hey-hey yeah, oh yeah
 
-[2x Guitar chords 1 + final]
+[2x Simple chords 1 + final]
 
 
 # EOF
