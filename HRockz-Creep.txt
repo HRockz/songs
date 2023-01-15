@@ -3,8 +3,8 @@ H-ROCKZ - CREEP
 
 Music + Text:   Radiohead
 Guitar Tuning:  EADGBE
-Guitar Effect:  U1/3
-Tempo:
+Guitar Effect:  U6-1 (clean), U6-2 (distorted)
+Tempo:          112
 
 
 [1x clean guitar picking + bass  -  G B C Cm]
@@ -25,7 +25,6 @@ Tempo:
     I wish I was special
                       Cm
     You're so fuckin' special
-
 
 [Heavy distorted guitar powerchords]
 
