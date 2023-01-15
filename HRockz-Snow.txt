@@ -3,7 +3,7 @@ H-ROCKZ - SNOW
 
 Music + Text:   Red Hot Chili Peppers
 Guitar Tuning:  EADGBE
-Guitar Effect:  U5/4
+Guitar Effect:  U5-3
 Tempo:          112 bpm
 
 
