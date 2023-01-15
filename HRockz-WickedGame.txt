@@ -2,12 +2,14 @@ H-ROCKZ - WICKED GAME
 =====================
 
 Music + Text:   HIM, Chris Isaak
-
 Guitar Tuning:  EADGBE
-Guitar Effect:  
+Guitar Effect:  P1/3
+Tempo:          120 bpm
 
 
-[Simple powerchords]
+[2x Keys]
+
+[2x simple powerchords + keys + bass]
 
 	The world was on fire and no one could save me but you
 	It's strange what desire will make foolish people do
@@ -30,7 +32,7 @@ Guitar Effect:
 	No, I don't wanna fall in love (this world is only gonna break your heart)
 	With you
 
-[Marijke solo]
+[Guitar solo, use pedal to increase/decrease volume]
 
 [Low volume powerchords]
 
@@ -51,7 +53,7 @@ Guitar Effect:
 	No, I (this world is only gonna break your heart)
 	(This world is only gonna break your heart)
 
-[Fading out]
+[Fading out, ending on B]
 
 	Nobody loves no one
 
