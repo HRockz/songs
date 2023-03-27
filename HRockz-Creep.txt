@@ -94,9 +94,10 @@ Tempo:          112
                              C
     What the hell am I doin' here?
             Cm
-    I don't belong here
+    I don't belong here                # Guitar ending on G
 
-[Fading out, ending on G]
+
+    [--SPOKEN--]
     I don't belong here
 
 
