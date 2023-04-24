@@ -7,7 +7,7 @@ Guitar Effect:  U6-1 (clean), U6-2 (distorted)
 Tempo:          112
 
 
-[1x clean guitar picking + bass  -  G B C Cm]
+[1x clean guitar picking  -  G B C Cm,  Bass + keys join on 'Cm']
 
                        G
     When you were here before
@@ -66,13 +66,13 @@ Tempo:          112
             Cm
     I don't belong here
     G                     B
-    She's running out the door (run)
-    C
-    She's running out
-    Cm
-    She run, run, run, run
-    G-----B-----C-----Cm
-    Run
+    She's running out the door (run)        #
+    C                                       #
+    She's running out                       #
+    Cm                                      #  Guitar: lesser volume
+    She run, run, run, run                  #
+    G-----B-----C-----Cm                    #
+    Run                                     #
 
 [Clean guitar picking + bass]
 
@@ -94,11 +94,9 @@ Tempo:          112
                              C
     What the hell am I doin' here?
             Cm
-    I don't belong here                # Guitar ending on G
-
-
-    [--SPOKEN--]
-    I don't belong here
+    I don't belong here                     #
+                                            #  all: full power!! :)
+    I don't belong here                     #
 
 
 # EOF
