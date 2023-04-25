@@ -7,9 +7,9 @@ Guitar Effect:
 Tempo:
 
 
-[Bass only, then guitar riff 1]
+[Bass starts]
 
-[Guitar riff 2:  4x D E F E,  2x D C  ]
+[Guitar riff 1:  Am Bm Cm Bm ]
 
     She was more like a beauty queen from a movie scene
     I said don't mind, but what do you mean, I am the one
@@ -19,14 +19,14 @@ Tempo:
     Then every head turned with eyes that dreamed of being the one
     Who will dance on the floor in the round
 
-[Guitar riff 3: Bb D ... A ]
+[Guitar riff 2: Fm Am Fm Am Fm Am Fm Am ... Fm Em ]
 
     People always told me be careful of what you do
     And don't go around breaking young girls' hearts
     And mother always told me be careful of who you love
     And be careful of what you do 'cause the lie becomes the truth
 
-[Guitar riff 3: D... D12G12... ]
+[Guitar riff 1:  Am Bm Cm Bm ]
 
     Billie Jean is not my lover
     She's just a girl who claims that I am the one
@@ -45,12 +45,16 @@ Tempo:
     Then showed a photo my baby cried his eyes were like mine (oh, no)
     'Cause we danced on the floor in the round, baby
 
+[Guitar riff 2: Fm Am Fm Am Fm Am Fm Am ... Fm Em ]
+
     People always told me be careful of what you do
     And don't go around breaking young girls' hearts
     She came and stood right by me
     Just the smell of sweet perfume
     This happened much too soon
     She called me to her room
+
+[Guitar riff 1:  Am Bm Cm Bm ]
 
     Billie Jean is not my lover
     She's just a girl who claims that I am the one
