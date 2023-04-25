@@ -3,15 +3,15 @@ H-ROCKZ - ENJOY THE SILENCE
 
 Music + Text:   Depeche Mode
 Guitar Tuning:  EADGBE
-Guitar Effect:  P2-2
+Guitar Effect:  P2-3
 Tempo:          120 bpm
 
 
-[Keys start, guitar powerchords only]
+[Guitar starts with powerchords only, bass + keys follow]
 
     4x Cm D#
 
-    Cm
+    Cm                                           # guitar less powerful
     Words like violence
 
     D#m
