@@ -3,48 +3,39 @@ H-ROCKZ - ENJOY THE SILENCE
 
 Music + Text:   Depeche Mode
 Guitar Tuning:  EADGBE
-Guitar Effect:  P2-3
+Guitar Effect:  P7-1
 Tempo:          120 bpm
 
 
-[Guitar starts with powerchords only, bass + keys follow]
+[Guitar starts, single powerchords, bass + keys follow]
 
     4x Cm D#
 
-    Cm                                           # guitar less powerful
+               Cm                                # guitar less powerful
     Words like violence
-
-    D#m
+              D#m
     Break the silence
-
-    G#
+         G#
     Come crashing in
     Into my little world
-
-    Cm
+            Cm
     Painful to me
-
-    D#m
+                 D#m
     Pierce right through me
-
-    G#
+              G#
     Can't you understand?
     Oh, my little girl
 
-[primary keys, strong powerchords]
+[continuous powerchords]
 
-    Fm
+               Fm
     All I ever wanted
-
-    G#
+               G#
     All I ever needed
-
         Cm     D#/G#
     Is here in my arms
-
-    Fm             G#
+              Fm  G#
     Words are very unnecessary
-
     Cm            B...........................
     They can only do harm
 
@@ -66,63 +57,34 @@ Tempo:          120 bpm
 
 [Powerchords + keys]
 
-    Cm
+             Cm
     Vows are spoken
-
-    D#m
+          D#m
     To be broken
-
-    G#
+             G#
     Feelings are intense
     Words are trivial
-
-    Cm
+              Cm
     Pleasures remain
-
-    D#m
+            D#m
     So does the pain
-
-    G#
+              G#
     Words are meaningless
     And forgettable
 
-    Fm
+[2x Chorus]
+               Fm
     All I ever wanted
-
-    G#
+               G#
     All I ever needed
-
-       Cm       D#/G#
+        Cm     D#/G#
     Is here in my arms
-
-    Fm             G#
+              Fm  G#
     Words are very unnecessary
-
     Cm            B...........................
     They can only do harm
 
-
-    ... 2x guitar riff + keys ...
-
-
-[2x, heavy distored powerchords]
-
-    Fm
-    All I ever wanted
-
-    G#
-    All I ever needed
-
-       Cm       D#/G#
-    Is here in my arms
-
-    Fm             G#
-    Words are very unnecessary
-
-    Cm            B
-    They can only do harm
-
-[instrumental]
+[1x instrumental chorous]
 
     Fm G# Cm D#/G#
     Fm G# Cm B              # sudden stop on B
