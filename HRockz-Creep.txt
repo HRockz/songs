@@ -75,28 +75,30 @@ Tempo:          112
     Run                                     #
 
 [Clean guitar picking + bass]
-
-                       G
-    Whatever makes you happy
-                 B
-    Whatever you want
-                      C
-    You're so fuckin' special
-                 Cm
-    I wish I was special
-
-[Soft distorted guitar powerchords + keys]
-
-              G
-    But I'm a creep
+                       _____________________
+                      | G                   #
+    Whatever makes you| happy               #
+                 B                          #
+    Whatever you want                       #
+                      C                     #
+    You're so fuckin' special               #  almost silent
+                 Cm                         #
+    I wish I was special                    #
+                                            #
+[Soft distorted guitar powerchords + keys]  #
+              ______________________________#
+             | G
+    But I'm a| creep
           B
     I'm a weirdo
                              C
     What the hell am I doin' here?
             Cm
     I don't belong here                     #
-                                            #  all: full power!! :)
+            G                               #  all: full power!! :)
     I don't belong here                     #
+                                            #
+            B, C, Cm, G                     #  instrumental, fading out on G
 
 
 # EOF
