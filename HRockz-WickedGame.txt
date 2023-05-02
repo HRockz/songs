@@ -9,10 +9,9 @@ Tempo:          124 bpm
 
 INTRO:
 	[1x Keys]
-	[1x Guitar riff]
+	[P.M. powerchords: B, A, E]
 
 VERSE 1:
-    [P.M. powerchords: B, A, E]
 	The world was on fire and no one could save me but you
 	It's strange what desire will make foolish people do    [slide]
 
@@ -64,10 +63,10 @@ CHORUS:
 	With you, my love        (this world is only gonna break your heart)
 	Ooh, and I...........    (this world is only gonna break your heart)
 
-	[1x Guitar riff]
+    [2x P.M. powerchords: B, A, E, ending on B]
 
 FINAL CHORUS
-	Nobody loves no one               [fading out, ending on B]
+	Nobody loves no one                               # spoken
 
 
 # EOF
