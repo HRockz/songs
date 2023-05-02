@@ -3,7 +3,7 @@ H-ROCKZ - BILLIE JEAN
 
 Music + Text:   Michael Jackson, The Bates
 Guitar Tuning:  EADGBE
-Guitar Effect:
+Guitar Effect:  U4/4
 Tempo:
 
 
@@ -12,7 +12,9 @@ Tempo:
 [Guitar riff 1:  Am Bm Cm Bm ]
 
     She was more like a beauty queen from a movie scene
+                                                      Dm
     I said don't mind, but what do you mean, I am the one
+                                       Am
     Who will dance on the floor in the round?
     She said I am the one, who will dance on the floor in the round
     She told me her name was Billie Jean, as she caused a scene
