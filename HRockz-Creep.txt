@@ -2,9 +2,7 @@ H-ROCKZ - CREEP
 ===============
 
 Music + Text:   Radiohead
-Guitar Tuning:  EADGBE
 Guitar Effect:  U6-1 (clean), U6-2 (distorted)
-Tempo:          112
 
 
 [1x clean guitar picking  -  G B C Cm,  Bass + keys join on 'Cm']
