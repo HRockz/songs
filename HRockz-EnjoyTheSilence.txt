@@ -5,39 +5,88 @@ Music + Text:   Depeche Mode
 Guitar Effect:  P7-1
 
 
-[Guitar starts, single powerchords, bass + keys follow]
+INTRO:
+    [Guitar starts:  4x Cm D#, single powerchords, bass + keys follow]
 
-    4x Cm D#
-
-               Cm                                # guitar less powerful
+VERSE 1:
+    [Cm D#m G# G#]                       # single powerchords
     Words like violence
-              D#m
     Break the silence
-         G#
     Come crashing in
     Into my little world
-            Cm
+
     Painful to me
-                 D#m
     Pierce right through me
-              G#
     Can't you understand?
     Oh, my little girl
 
-[continuous powerchords]
-
-               Fm
-    All I ever wanted
-               G#
+CHORUS:
+    [Fm G# Cm D#]
+    All I ever wanted                    # continuous powerchords
     All I ever needed
-        Cm     D#/G#
     Is here in my arms
-              Fm  G#
+
+    [Fm G# Cm B~~~~~~~~~~~]
     Words are very unnecessary
-    Cm            B...........................
     They can only do harm
 
-[bridge: 2x guitar riff + keys]
+BRIDGE:
+    [instrumental]
+
+VERSE 2:
+    [Cm D#m G# G#]                       # single powerchords
+    Vows are spoken
+    To be broken
+    Feelings are intense
+    Words are trivial
+
+    Pleasures remain
+    So does the pain
+    Words are meaningless
+    And forgettable
+
+CHORUS:
+    [Fm G# Cm D#]
+    All I ever wanted                    # continuous powerchords
+    All I ever needed
+    Is here in my arms
+
+    [Fm G# Cm B~~~~~~~~~~~]
+    Words are very unnecessary
+    They can only do harm
+
+BRIDGE:
+    [instrumental]
+
+CHORUS:
+    [Fm G# Cm D#]
+    All I ever wanted
+    All I ever needed
+    Is here in my arms
+
+    [Fm G# Cm B]
+    Words are very unnecessary
+    They can only do harm
+
+OUTRO:
+    [Fm G# Cm D#]
+    All I ever wanted
+    All I ever needed
+    Is here in my arms
+
+    [Fm G# Cm B]
+    Words are very unnecessary
+    They can only do harm
+
+
+1x CHORUS:
+    [instrumental, ending on B]
+
+
+---------------------------------------------------------------------
+
+
+APPENDIX:
 
     ------------|-----------|------------|-----------|
     ------------|-----------|------------|-----------|
@@ -52,40 +101,5 @@ Guitar Effect:  P7-1
     ---6------5-|--------8--|---6-----5--|-----------|
     -6-----6----|-6----6----|-6-----6----|-6----6----|
     ------------|-----------|------------|-----------|
-
-[Powerchords + keys]
-
-             Cm
-    Vows are spoken
-          D#m
-    To be broken
-             G#
-    Feelings are intense
-    Words are trivial
-              Cm
-    Pleasures remain
-            D#m
-    So does the pain
-              G#
-    Words are meaningless
-    And forgettable
-
-[2x Chorus]
-               Fm
-    All I ever wanted
-               G#
-    All I ever needed
-        Cm     D#/G#
-    Is here in my arms
-              Fm  G#
-    Words are very unnecessary
-    Cm            B...........................
-    They can only do harm
-
-[1x instrumental chorous]
-
-    Fm G# Cm D#/G#
-    Fm G# Cm B              # sudden stop on B
-
 
 # EOF

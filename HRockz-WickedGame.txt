@@ -4,17 +4,19 @@ H-ROCKZ - WICKED GAME
 Music + Text:   HIM, Chris Isaak
 Guitar Effect:  U7-1
 
+Guitar mostly:  B, A, E
+
 
 INTRO:
     [1x Keys]
-    [P.M. powerchords: B, A, E]
+    [1x P.M. powerchords]
 
 VERSE 1:
     The world was on fire and no one could save me but you
-    It's strange what desire will make foolish people do    [slide]
+    It's strange what desire will make foolish people do
 
 PRE-CHORUS:
-    And I never dreamed that I'd knew somebody like you     [slide]
+    And I never dreamed that I'd knew somebody like you
     And I'd never dreamed that I'd need somebody like you
 
 CHORUS:
@@ -27,7 +29,6 @@ END-CHORUS:
     With you (This world is only gonna break your heart)
 
 VERSE 2:
-    [P.M. powerchords: B, A, E]
     What a wicked game to play, to make me feel this way
     What a wicked thing to do, to let me dream of you
     What a wicked thing to say, you never felt this way
@@ -39,19 +40,16 @@ CHORUS:
     And I wanna fall in love (this world is only gonna break your heart)
     With you
 
-===========================
-GUITAR SOLO  [instrumental]
+INSTRUMENTAL:
+    [Guitar solo]
+    [1x P.M. powerchords]
 
-1x B, A, E
-===========================
-
-INTRELUDE [silence / spoken]:
-    The world was on fire and no one could save me but you
-    Strange what desire will make foolish people do    # Plec scratch
+INTRELUDE:                                                  #
+    The world was on fire and no one could save me but you  # spoken
+    Strange what desire will make foolish people do         #
 
 PRE-CHORUS:
-    [P.M. powerchords: B, A, E]
-    No and I never dreamed that I'd love somebody like you   [slide]
+    No and I never dreamed that I'd love somebody like you
     And I'll never dream that I lose somebody like you, no
 
 CHORUS:
@@ -61,10 +59,10 @@ CHORUS:
     With you, my love        (this world is only gonna break your heart)
     Ooh, and I...........    (this world is only gonna break your heart)
 
-    [2x P.M. powerchords: B, A, E, ending on B]
+OUTRO
+    [1x P.M. powerchords, ending on B]
 
-FINAL CHORUS
-    Nobody loves no one                               # spoken
+    Nobody loves no one
 
 
 # EOF
