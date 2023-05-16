@@ -68,7 +68,7 @@ CHORUS:
     Words are very unnecessary
     They can only do harm
 
-OUTRO:
+CHORUS:
     [Fm G# Cm D#]
     All I ever wanted
     All I ever needed
@@ -78,9 +78,9 @@ OUTRO:
     Words are very unnecessary
     They can only do harm
 
-
-1x CHORUS:
-    [instrumental, ending on B]
+OUTRO:
+    [Fm G# Cm D#]
+    [Fm G# Cm, ending on B]
 
 
 ---------------------------------------------------------------------
