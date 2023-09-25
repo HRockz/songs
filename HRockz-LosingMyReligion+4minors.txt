@@ -2,19 +2,27 @@ H-ROCKZ - LOSING MY RELIGION
 ============================
 
 Music + Text:   R.E.M.
-Guitar Effect:
+Guitar Effect:  U7/1
 
 
 INTRO:
     - same as Chorus -
 
+                    A                  C#m         A   C#m  (B  C#m)
+    e|--2--4--2-----5---|--2--4--2-----4---|
+    B|-----------5--5---|-----------5--6---|
+    G|--------------6---|--------------5---|  . . . 
+    D|--------------7---|--------------5---|
+    A|--------------7---|--------------4---|
+    E|--------------5---|--------------4---|
+    
 VERSE 1:
     Oh life is bigger                                                 C#m
     It's bigger than you                                              G#m
     And you are not me                                                C#m
     The lengths that I will go to                                     G#m
-    The distance in your eyes                                    C#m
-    Oh no I've said too much                          G#m             F#m
+    The distance in your eyes                                         C#m
+    Oh no I've said too much                          G#m             F#
     I set it up                                                       B
 
 VERSE 2:
@@ -24,12 +32,13 @@ VERSE 2:
     Trying to keep up with you
     And I don't know if I can do it
     Oh no I've said too much
-    I haven't said enough
+    I haven't said enough 
 
-CHORUS 1:
-    I thought that I heard you laughing                     A
-    I thought that I heard you sing                   B     C#m  Em   F#sus2
-    I think I thought I saw you try                   A     B    C#m  C#mm7  B
+CHORUS 1 -- Em on 7th fret, F#sus2 on 10th fret
+
+    I thought that I heard you laughing                          A
+    I thought that I heard you sing                         B    C#m  |  ( Em    F#sus2 )
+    I think I thought I saw you try                   A     B    C#m  |  ( C#m7  B      )
 
 VERSE 3:
     Every whisper, of every waking hour
@@ -53,10 +62,20 @@ CHORUS 2:
     I thought that I heard you sing
     I think I thought I saw you try
 
+INTERLUDE:
+
+    e|-4-4-4-2---2-2-2-|------------|
+    B|-----------------|-5-5-5-2~~~ |
+    G|-----------------|------------|
+    D|-----------------|------------|
+    A|-----------------|------------|
+    E|-----------------|------------^|
+
+    
 BRIDGE:
-                                                      C#m   C#   Amaj7   B
-    But that was just a dream                         E          F#sus2
-    That was just a dream                             E          F#sus2
+                                                      
+    But that was just a dream                         E          C#m
+    That was just a dream                             E          C#m
 
 VERSE 5:
     That's me in the corner
@@ -79,5 +98,14 @@ OUTRO:
     Just a dream
     Just a dream, dream
 
+                      lento
+    e|-4-4-4-4 . . .|-4-2-----2-------|-------|
+    B|--------------|-----5-2---5-2-5-|2~~~~  |
+    G|--------------|-----------------|-------|
+    D|--------------|-----------------|-------|
+    A|--------------|-----------------|-------|
+    E|--------------|-----------------|-------|
+
+    
 
 # EOF
