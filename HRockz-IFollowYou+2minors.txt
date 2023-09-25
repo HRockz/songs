@@ -2,7 +2,7 @@ H-ROCKZ - I FOLLOW RIVERS
 =========================
 
 Music + Text:   Triggerfinger, covered by Lykke Li
-Guitar Effect:
+Guitar Effect:  P3/2
 
 
 INTRO
@@ -46,7 +46,7 @@ VERSE 2
     You're my river running high,
     Run deep run wild
 
-CHORUS
+CHORUS ONLY FROM HERE ON:
     I, I follow
     I follow you deep sea baby
     I follow you
@@ -55,6 +55,12 @@ CHORUS
     I follow you
     You're my river running high,
     Run deep run wild
+
+    instrumental:
+    [2x Guitar solo melody]
+    [2x Bass   solo melody]
+    [2x Keys   solo melody]
+    [2x All    chorus     ]
 
     I, I follow
     I follow you deep sea baby
