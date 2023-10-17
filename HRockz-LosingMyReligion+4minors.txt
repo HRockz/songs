@@ -11,11 +11,11 @@ INTRO:
                     A                  C#m         A   C#m  (B  C#m)
     e|--2--4--2-----5---|--2--4--2-----4---|
     B|-----------5--5---|-----------5--6---|
-    G|--------------6---|--------------5---|  . . . 
+    G|--------------6---|--------------5---|  . . .
     D|--------------7---|--------------5---|
     A|--------------7---|--------------4---|
     E|--------------5---|--------------4---|
-    
+
 VERSE 1:
     Oh life is bigger                                                 C#m
     It's bigger than you                                              G#m
@@ -32,7 +32,7 @@ VERSE 2:
     Trying to keep up with you
     And I don't know if I can do it
     Oh no I've said too much
-    I haven't said enough 
+    I haven't said enough
 
 CHORUS 1 -- Em on 7th fret, F#sus2 on 10th fret
 
@@ -69,11 +69,11 @@ INTERLUDE:
     G|-----------------|------------|
     D|-----------------|------------|
     A|-----------------|------------|
-    E|-----------------|------------^|
+    E|-----------------|------------|
 
-    
+
 BRIDGE:
-                                                      
+
     But that was just a dream                         E          C#m
     That was just a dream                             E          C#m
 
@@ -92,11 +92,11 @@ CHORUS 3:
     I think I thought I saw you try
 
 OUTRO:
-    But that was just a dream
-    Try, cry, fly, try
-    That was just a dream
-    Just a dream
-    Just a dream, dream
+    But that was just a dream                         E          C#m
+    Try, cry, fly, try                                E          C#m
+    That was just a dream                             E          C#m
+    Just a dream                                                 B     (strum once only)
+    Just a dream, dream                                          G#    (strum once only)
 
                       lento
     e|-4-4-4-4 . . .|-4-2-----2-------|-------|
@@ -106,6 +106,6 @@ OUTRO:
     A|--------------|-----------------|-------|
     E|--------------|-----------------|-------|
 
-    
+
 
 # EOF
