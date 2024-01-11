@@ -7,9 +7,13 @@ Guitar Effect:  P3/2
 
 INTRO
 
+    [1x Guitar only]
+    Fm Dm Am C
 
+    [2x all + whistling]
+    Fm Dm Am C
+    Fm Dm Am C
 
-    1, 2, 3, 4...
 
 VERSE 1
     Oh I beg you                                 Dm             [P.M.]
@@ -50,7 +54,7 @@ CHORUS:
 
 INTERLUDE:
     You're my river running high,                     Dm
-    Run deep run wild                            C    Am
+    Run deep run wild                            C
 
     [2x Guitar solo]
 
@@ -61,7 +65,7 @@ INTERLUDE:
     A|---------------|---------------------------|-----------10-|
     E|---------------|---------------------------|--------------|
 
-CHORUS
+CHORUS:
     I, I follow                                  Fm   Dm
     I follow you deep sea baby                        Am
     I follow you                                 C
@@ -69,13 +73,22 @@ CHORUS
     I follow you dark boom honey                      Am
     I follow you                                 C
 
-CHORUS
+CHORUS:
     I, I follow                                  Fm   Dm
     I follow you deep sea baby                        Am
     I follow you                                 C
     I, I follow you                              Fm   Dm
     I follow you dark boom honey                      Am
     I follow you                                 C
+
+CHORUS:
+    [whistling]
+    Fm Dm Am C
+    Fm Dm Am C
+
+OUTRO:
+    [instrumental]
+    Fm Dm Am C                                                  [ending on C]
 
 
 # EOF
