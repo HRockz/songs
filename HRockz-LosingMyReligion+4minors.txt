@@ -38,7 +38,7 @@ CHORUS 1 -- Em on 7th fret, F#sus2 on 10th fret
 
     I thought that I heard you laughing                          A
     I thought that I heard you sing                         B    C#m  |  ( Em    F#sus2 )
-    I think I thought I saw you try                   A     B    C#m  |  ( C#m7  B      )
+    I think I thought I saw you try                   A     B    C#m  |  ( C#m7  B...   )
 
 VERSE 3:
     Every whisper, of every waking hour
@@ -60,8 +60,9 @@ VERSE 4:
 CHORUS 2:
     I thought that I heard you laughing
     I thought that I heard you sing
-    I think I thought I saw you try
-
+    I think I thought I saw you try                                              short B,
+                                                                                 enter interlude
+                                                                                 immediately!
 INTERLUDE:
 
     e|-4-4-4-2---2-2-2-|------------|
